@@ -9,7 +9,7 @@
                typo3-core-preferred="14.3"
     />
     <project title="TYPO3 Paint"
-             release="0.1.0"
-             version="0.1"
+             release="1.0.0"
+             version="1.0"
              copyright="since 2026 by Anu Bhuvanendran Nair"/>
 </guides>
