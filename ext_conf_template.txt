@@ -1,0 +1,26 @@
+# customcategory=colors=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:category.colors
+# customcategory=scaffold=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:category.scaffold
+# customcategory=tinting=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:category.tinting
+# customsubcategory=brand=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:subcategory.brand
+# customsubcategory=header=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:subcategory.header
+# customsubcategory=sidebar=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:subcategory.sidebar
+# customsubcategory=mixing=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:subcategory.mixing
+
+# cat=colors/brand/10; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.primaryColor
+primaryColor =
+# cat=colors/brand/20; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.secondaryColor
+secondaryColor =
+# cat=colors/brand/30; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.iconAccentColor
+iconAccentColor =
+# cat=scaffold/header/10; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.headerBackgroundColor
+headerBackgroundColor =
+# cat=scaffold/header/20; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.headerTextColor
+headerTextColor =
+# cat=scaffold/sidebar/10; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.sidebarBackgroundColor
+sidebarBackgroundColor =
+# cat=scaffold/sidebar/20; type=color; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.sidebarTextColor
+sidebarTextColor =
+# cat=tinting/mixing/10; type=string; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.neutralMix
+neutralMix =
+# cat=tinting/mixing/20; type=string; label=LLL:EXT:typo3_paint/Resources/Private/Language/locallang.xlf:config.stateHarmonize
+stateHarmonize =

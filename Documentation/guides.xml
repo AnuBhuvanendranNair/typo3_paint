@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides xmlns="https://www.phpdoc.org/guides" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.phpdoc.org/guides ../vendor/phpdocumentor/guides-cli/resources/schema/guides.xsd"
+        links-are-relative="true">
+    <!-- TODO before publishing: add project-home, project-repository, project-issues,
+         edit-on-github / edit-on-github-branch once the public repository exists -->
+    <extension class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
+               interlink-shortcode="anubit/typo3-paint"
+               typo3-core-preferred="14.3"
+    />
+    <project title="TYPO3 Paint"
+             release="0.1.0"
+             version="0.1"
+             copyright="since 2026 by Anu Bhuvanendran Nair"/>
+</guides>

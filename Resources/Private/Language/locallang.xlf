@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="EXT:typo3_paint/Resources/Private/Language/locallang.xlf">
+        <body>
+            <trans-unit id="category.colors"><source>Colors</source></trans-unit>
+            <trans-unit id="category.scaffold"><source>Header &amp; Sidebar</source></trans-unit>
+            <trans-unit id="category.tinting"><source>Tinting</source></trans-unit>
+            <trans-unit id="subcategory.brand"><source>Brand colors (reload the backend after saving)</source></trans-unit>
+            <trans-unit id="subcategory.header"><source>Top bar</source></trans-unit>
+            <trans-unit id="subcategory.sidebar"><source>Module menu</source></trans-unit>
+            <trans-unit id="subcategory.mixing"><source>Color mixing</source></trans-unit>
+            <trans-unit id="config.primaryColor"><source>Primary color: Main accent for buttons, links, focus and active states. In the Fresh theme the top bar and module menu are derived from it. Only hue and saturation are used, lightness is set by the theme. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.secondaryColor"><source>Secondary color: Used for secondary buttons and badges. Leave empty to derive it from the primary color.</source></trans-unit>
+            <trans-unit id="config.iconAccentColor"><source>Icon accent color: Accent part of the core icons, including the module menu. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.headerBackgroundColor"><source>Background color: Background of the top bar. Used exactly as entered. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.headerTextColor"><source>Text color: Text and icon color in the top bar. Make sure it contrasts with the background. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.sidebarBackgroundColor"><source>Background color: Background of the module menu on the left. Used exactly as entered. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.sidebarTextColor"><source>Text color: Text color in the module menu. Make sure it contrasts with the background. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.neutralMix"><source>Neutral tint (%): How strongly grey surfaces pick up the primary color. Whole number from 0 to 100. Theme defaults are Modern 8, Fresh 12, Classic 0. Leave empty to use the theme default.</source></trans-unit>
+            <trans-unit id="config.stateHarmonize"><source>State color harmonization (%): How strongly success, info, warning and danger colors pick up the primary color. Whole number from 0 to 100. Theme defaults are Modern and Fresh 5, Classic 0. Leave empty to use the theme default.</source></trans-unit>
+        </body>
+    </file>
+</xliff>
